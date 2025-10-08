@@ -1,0 +1,6 @@
+uvx cookieplone
+cd myplonestuff
+make install
+two terminals:
+one: make backend-start
+two: make frontend-start
