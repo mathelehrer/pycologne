@@ -1,0 +1,10 @@
+[project]
+name = "2026-01-pycologne"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.5.2",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "z3-solver>=4.15.4.0",
+]

@@ -13,4 +13,4 @@ d = {'a': 1, 'b': 2, 'd': 4}
 a = [v ** 2 for k in ['a', 'b', 'c', 'd'] if (v := d.get(k))]
 
 
-# python wats
+# python wats new
